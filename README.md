@@ -1,1 +1,4 @@
 # Matlab_Fcm_test
+Fcm.m是Matlab封装的fcm函数对于彩色图像分割效果
+FcmThres.m是Matlab封装的fcm函数对于灰度图像分割效果
+PureFcm.m是自实现用于随机数据聚类效果的演示
